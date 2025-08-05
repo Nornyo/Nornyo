@@ -22,23 +22,22 @@ Tools I use
 
 Project Work
 
-<div align="left">
-  <a href="#power-bi-projects">
-    <img src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png" height="24" alt="Power BI logo" />
-  </a><br /><br /> 
-  
-  <a href="#excel-projects">
-    <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="24" alt="Excel logo" />
-  </a><br /><br />
-  
-  <a href="#sql-projects">
-    <img src="https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png" height="24" alt="SQL logo" />
-  </a><br /><br />
-  
-  <a href="#canva-projects">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="24" alt="Canva logo" />
-  </a>
-</div>
+<h3>🚀 Personal Projects</h3>
+
+<p>
+  <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="30" alt="Excel logo" />
+  <a href="#excel-projects">Excel Projects</a>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png" height="30" alt="SQL logo" />
+  <a href="#sql-projects">SQL Projects</a>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png" height="30" alt="Power BI logo" />
+  <a href="#power-bi-projects">Power BI Projects</a>
+</p>
 
 
 
